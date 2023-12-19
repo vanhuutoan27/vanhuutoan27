@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **vhtoan27@gmail.com**
+- 📫 How to reach me **vanhuutoan.it.work@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
