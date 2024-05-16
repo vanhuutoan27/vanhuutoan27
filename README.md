@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=21&duration=3000&pause=500&color=6495ED&random=false&width=435&lines=Van+Huu+Toan;Fullstack+Developer" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=21&duration=3000&pause=500&color=6495ED&random=false&width=435&lines=Van+Huu+Toan;Fullstack+Developer" /></h1>
 
 # 💫 About Me:
 👋 I’m vanhuutoan27<br>🌏 I’m from Vietnam<br>🎓 I’m a student at FPT University<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about something<br>⚡ Fun fact: I don't like coding<br>
